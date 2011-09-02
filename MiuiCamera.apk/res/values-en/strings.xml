@@ -62,7 +62,6 @@
   <string name="pref_camera_iso_400">ISO 400</string>
   <string name="pref_camera_iso_800">ISO 800</string>
   <string name="pref_camera_iso_auto">Auto</string>
-  <string name="pref_camera_focusmode_continuous_video">Continuous video</string>
   <string name="pref_camera_iso_deblur">Deblur</string>
   <string name="pref_camera_jpegquality">Picture quality</string>
   <string name="pref_camera_jpegquality_fine">Fine</string>
