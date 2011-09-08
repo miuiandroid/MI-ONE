@@ -6,7 +6,7 @@
   <string name="account_disabled">Account disabled</string>
   <string name="account_hint_text">Enter your account details</string>
   <string name="app_name">MIUI Account Manager</string>
-  <string name="authenticator_label">MIUI</string>
+  <string name="authenticator_label">Xiaomi</string>
   <string name="bad_authentication">Your username and password do not match, please try again.</string>
   <string name="bad_username">The text entered is not a valid username</string>
   <string name="bad_verification">Registration error</string>
@@ -38,12 +38,15 @@
   <string name="service_disabled">Service disabled</string>
   <string name="service_name">MIUI Account Manager</string>
   <string name="service_unavailable">Service unavailable</string>
+  <string name="settings_safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
   <string name="show_password">Show password</string>
   <string name="succeed">Completed</string>
   <string name="terms_not_agreed">You must agree to our terms to register</string>
   <string name="unknown">Unknown error</string>
   <string name="user_agreement1">By creating account, you accepted</string>
-  <string name="user_agreement2">\u0020term of service</string>
+  <string name="user_agreement2">user agreement</string>
+  <string name="user_agreement3">\u0020and\u0020</string>
+  <string name="user_agreement4">privacy policy</string>
   <string name="username">Username:</string>
   <string name="vercode">Verification code</string>
   <string name="vercode_hint_text">Please input the SMS verification code</string>

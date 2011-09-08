@@ -17,7 +17,6 @@
   <string name="error_mem_full">手机内存已满， 无法启动收音机。</string>
   <string name="exit">退出收音机</string>
   <string name="fm">收音机:%s</string>
-  <string name="fm_volume">收音机音量</string>
   <string name="fmradio_airplane_mode_enable_at_begin">使用收音机前请关闭飞行模式。</string>
   <string name="fmradio_airplane_mode_enable_in_listen">飞行模式下收音机会自动关闭。</string>
   <string name="fmradio_clear_confirm_msg">将会删除已保存电台，确认扫描吗？</string>
@@ -32,6 +31,7 @@
   <string name="fmradio_start_error">打开收音机失败</string>
   <string name="fmradio_stop_unexpected">收音机已停止</string>
   <string name="fmradio_waiting_for_power_on">正在启动收音机，请稍候...</string>
+  <string name="fm_volume">收音机音量</string>
   <string name="frequency">频率:</string>
   <string name="frequency_already_exist">电台频率已经存在，请重新输入。</string>
   <string name="frequency_out_of_range">电台频率超出范围(%1$s~%2$s)。</string>
@@ -61,12 +61,12 @@
   <string name="select_quit_time">请选择自动关闭的时间(分)</string>
   <string name="service_start_error_msg">收音机遇到运行时错误将会退出， 请重新启动收音机。</string>
   <string name="sleep_mode">睡眠模式</string>
+  <string name="stations_list">电台列表</string>
+  <string name="stations_list_empty">没有电台，您可点击菜单进行电台扫描。</string>
   <string name="station_format_error">电台格式错误。</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_name">电台</string>
   <string name="station_name_already_used">电台名称已使用，请重新输入。</string>
-  <string name="stations_list">电台列表</string>
-  <string name="stations_list_empty">没有电台，您可点击菜单进行电台扫描。</string>
   <string name="toast_delete_station">%sMHz电台已删除。</string>
   <string name="toast_delete_station_fail">程序错误，删除电台失败！</string>
   <string name="toast_edit_save_station_fail">程序错误，保存电台失败！</string>

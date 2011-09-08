@@ -627,6 +627,10 @@
   <string name="lunar_yi" />
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
+  <string name="managed_roaming_dialog_cancel_button">No</string>
+  <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
+  <string name="managed_roaming_dialog_ok_button">Yes</string>
+  <string name="managed_roaming_title">Managed Roaming</string>
   <string name="me">Me</string>
   <string name="media_bad_removal">SD card was removed before being unmounted.</string>
   <string name="media_checking">USB storage is currently being checked.</string>
@@ -1222,6 +1226,7 @@
   <string name="smv_process">The process %1$s has has violated its self-enforced StrictMode policy.</string>
   <string name="spring_begins" />
   <string name="status_bar_back_to_call">Touch here to return to the call</string>
+  <string name="status_bar_toggle_ac">Access control</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Backlight</string>
   <string name="status_bar_toggle_data">Data</string>

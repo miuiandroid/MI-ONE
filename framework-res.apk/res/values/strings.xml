@@ -627,6 +627,10 @@
   <string name="lunar_yi">一</string>
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
+  <string name="managed_roaming_dialog_cancel_button">No</string>
+  <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
+  <string name="managed_roaming_dialog_ok_button">Yes</string>
+  <string name="managed_roaming_title">Managed Roaming</string>
   <string name="me">Me</string>
   <string name="media_bad_removal">SD card was removed before being unmounted.</string>
   <string name="media_checking">SD card is currently being checked.</string>
@@ -1177,7 +1181,7 @@
   <string name="sd_not_available_low_internal_storage">SD card unmounted or unvailable, internal storage is low on space</string>
   <string name="sd_not_available_saved_to_internal_storage">Saved to internal storage</string>
   <string name="sd_not_available_use_internal_storage">SD card unavailable, saved to internal storage</string>
-  <string name="sdcard_status_changed_dialog_message">Going to exit, please reopen to refresh resource list</string>
+  <string name="sdcard_status_changed_dialog_message">Going to exit.\nPlease reopen this app to refresh resource.</string>
   <string name="sdcard_status_changed_dialog_title">SD card status changed</string>
   <string name="search_go">Search</string>
   <string name="second">sec</string>
@@ -1222,6 +1226,7 @@
   <string name="smv_process">The process %1$s has has violated its self-enforced StrictMode policy.</string>
   <string name="spring_begins">立春</string>
   <string name="status_bar_back_to_call">Touch here to return to the call</string>
+  <string name="status_bar_toggle_ac">Access control</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Backlight</string>
   <string name="status_bar_toggle_data">Data</string>

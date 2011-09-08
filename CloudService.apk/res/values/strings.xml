@@ -38,12 +38,15 @@
   <string name="service_disabled">服务已停止</string>
   <string name="service_name">MIUI帐户认证</string>
   <string name="service_unavailable">服务不可用</string>
+  <string name="settings_safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
   <string name="show_password">Show password</string>
   <string name="succeed">Done</string>
   <string name="terms_not_agreed">必须同意MIUI条款</string>
   <string name="unknown">未知错误</string>
-  <string name="user_agreement1">By creating account, you accepted</string>
-  <string name="user_agreement2">\u0020term of service</string>
+  <string name="user_agreement1">By creating account, you accepted\u0020</string>
+  <string name="user_agreement2">user agreement</string>
+  <string name="user_agreement3">\u0020and\u0020</string>
+  <string name="user_agreement4">privacy policy</string>
   <string name="username">用户名</string>
   <string name="vercode">Verify code</string>
   <string name="vercode_hint_text">Please input sms verify code</string>

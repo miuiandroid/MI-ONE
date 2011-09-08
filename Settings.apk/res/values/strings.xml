@@ -1378,6 +1378,7 @@
   <string name="wifi_notify_open_networks">Network notification</string>
   <string name="wifi_notify_open_networks_summary">Notify me when an open network is available</string>
   <string name="wifi_password">Password</string>
+  <string name="wifi_password_incorrect">Incorrect password, please try again</string>
   <string name="wifi_quick_toggle_summary">Turn on WLAN</string>
   <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Remembered</string>
