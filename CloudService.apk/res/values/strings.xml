@@ -16,6 +16,7 @@
   <string name="email_not_verified">Email尚未验证</string>
   <string name="forget_password">Forget password？</string>
   <string name="get_vercode">Get verify code</string>
+  <string name="has_bound">重复绑定</string>
   <string name="invalid_password">Password must be 6~16 chars</string>
   <string name="invalid_phone_number">Invalid phone number</string>
   <string name="invalid_vercode">Please input verify code</string>

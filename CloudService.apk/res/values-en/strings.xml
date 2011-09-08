@@ -16,6 +16,7 @@
   <string name="email_not_verified">E-mail account not yet verified</string>
   <string name="forget_password">Forgotten password?</string>
   <string name="get_vercode">Get verification code</string>
+  <string name="has_bound">Already bound</string>
   <string name="invalid_password">Password must be 6 and 16 chars</string>
   <string name="invalid_phone_number">Invalid phone number</string>
   <string name="invalid_vercode">Please input verification code</string>

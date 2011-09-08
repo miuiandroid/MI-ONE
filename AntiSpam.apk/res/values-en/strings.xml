@@ -67,7 +67,9 @@
   <string name="fw_clear_whitelist">Clear Whitelist</string>
   <string name="fw_edit_keyword">Edit keywords</string>
   <string name="fw_end_time">End block time</string>
+  <string name="fw_import_blacklist">Import Blacklist</string>
   <string name="fw_import_ms">Import all messages</string>
+  <string name="fw_import_whitelist">Import Whitelist</string>
   <string name="fw_in_blacklist">%s number is already in the Blacklist</string>
   <string name="fw_in_whitelist">%s number is already in the Whitelist</string>
   <string name="fw_keyword_filter">Keyword spam filter</string>

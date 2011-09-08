@@ -19,11 +19,6 @@
   <string name="gallery_camera_videos_bucket_name">Camera videos</string>
   <string name="image_file_name_format">\'IMG\'_yyyyMMdd_HHmmss</string>
   <string name="not_enough_space">Your SD card is full.</string>
-  <string name="pref_camera_afzone">Selectable zone AF</string>
-  <string name="pref_camera_afzone_auto">Auto</string>
-  <string name="pref_camera_afzone_average">Frame average</string>
-  <string name="pref_camera_afzone_center">Center weighted</string>
-  <string name="pref_camera_afzone_spot">Spot metering</string>
   <string name="pref_camera_antibanding">Anti-banding</string>
   <string name="pref_camera_antibanding_50hz">50 Hz</string>
   <string name="pref_camera_antibanding_60hz">60 Hz</string>
@@ -49,6 +44,7 @@
   <string name="pref_camera_contrast">Contrast</string>
   <string name="pref_camera_focusmode">Focus mode</string>
   <string name="pref_camera_focusmode_auto">Auto</string>
+  <string name="pref_camera_focusmode_continuous_video">Continuous video</string>
   <string name="pref_camera_focusmode_edof">EDOF</string>
   <string name="pref_camera_focusmode_fixed">Fixed</string>
   <string name="pref_camera_focusmode_infinity">Infinity</string>

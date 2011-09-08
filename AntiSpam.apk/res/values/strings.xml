@@ -67,7 +67,9 @@
   <string name="fw_clear_whitelist">清空白名单</string>
   <string name="fw_edit_keyword">编辑拦截关键词</string>
   <string name="fw_end_time">结束时间</string>
+  <string name="fw_import_blacklist">正在添加黑名单</string>
   <string name="fw_import_ms">导入该联系人的所有短信</string>
+  <string name="fw_import_whitelist">正在添加白名单</string>
   <string name="fw_in_blacklist">号码: %s 已经存在黑名单中</string>
   <string name="fw_in_whitelist">号码: %s 已经存在白名单中</string>
   <string name="fw_keyword_filter">过滤垃圾短信</string>

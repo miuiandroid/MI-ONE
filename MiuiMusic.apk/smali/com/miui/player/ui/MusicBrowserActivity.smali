@@ -403,7 +403,7 @@
 
     .line 310
     .local v0, dialog:Landroid/app/Dialog;
-    invoke-virtual {v0}, Landroid/app/Dialog;->show()V
+    invoke-virtual {v0}, Landroid/app/AlertDialog;->show()V
 
     .line 312
     return-void
