@@ -595,9 +595,6 @@
   <string name="dtmf_tone_enable_summary_off">Play tones when using dial pad</string>
   <string name="dtmf_tone_enable_summary_on">Play tones when using dial pad</string>
   <string name="dtmf_tone_enable_title">Audible touch tones</string>
-  <string name="dual_microphone_enable_summary_off">Dual-microphone noise cancellation is disabled</string>
-  <string name="dual_microphone_enable_summary_on">Dual-microphone noise cancellation is enabled</string>
-  <string name="dual_microphone_enable_title">Enable noise-cancelling</string>
   <string name="electron_beam_animation_off">Screen off animation</string>
   <string name="electron_beam_animation_on">Screen on animation</string>
   <string name="enableNetwork">enableNetwork</string>
