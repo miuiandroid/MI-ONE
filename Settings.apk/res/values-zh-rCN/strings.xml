@@ -329,6 +329,7 @@
   <string name="camera_key_action_shortcut_screenshot">截屏</string>
   <string name="camera_key_action_shortcut_search">搜索</string>
   <string name="camera_key_action_shortcut_title">快捷操作</string>
+  <string name="camera_key_action_shortcut_wake">锁屏或点亮屏幕</string>
   <string name="camera_key_action_title">米键</string>
   <string name="camera_key_action_toggle_title">快捷开关</string>
   <string name="cancel">取消</string>
@@ -1390,6 +1391,10 @@
   <string name="wifi_wps_start">开始</string>
   <string name="wifi_wps_succeeded">WPS 完成</string>
   <string name="wifi_wps_timeout">WPS 超时</string>
+  <string name="wipe_all_data">清空所有数据</string>
+  <string name="wipe_all_data_desc">这会清空用户数据，并且包括：\n</string>
+  <string name="wipe_user_data">清空用户数据</string>
+  <string name="wipe_user_data_desc">这会从手机中清空用户数据，包括：\n</string>
   <string name="wireless_networks_settings_title">无线和网络设置</string>
   <string name="yes">是</string>
   <string name="zone_list_menu_sort_alphabetically">按字母顺序排序</string>
