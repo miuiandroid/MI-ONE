@@ -25,7 +25,7 @@
   <string name="enable_mitalk_dialog_title">Enable MiTalk sync</string>
   <string name="finish_button_label">Finish</string>
   <string name="has_bound">Already exists</string>
-  <string name="has_nick">Account already has a nickname associated</string>
+  <string name="has_nick">Account already has a nickname</string>
   <string name="header_account_settings">Account settings</string>
   <string name="header_add_an_account">Add an account</string>
   <string name="header_application_sync_settings">Application sync settings</string>

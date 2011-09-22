@@ -71,8 +71,8 @@
   <string name="preferences_account_summary">Sync notes with Google Task</string>
   <string name="preferences_account_title">Sync account</string>
   <string name="preferences_add_account">Add account</string>
-  <string name="preferences_bg_random_appear_title">Random note color</string>
   <string name="preferences_bg_random_appear_summary">Random backgrounds for notes</string>
+  <string name="preferences_bg_random_appear_title">Random note color</string>
   <string name="preferences_button_sync_cancel">Cancel syncing</string>
   <string name="preferences_button_sync_immediately">Sync immediately</string>
   <string name="preferences_dialog_change_account_title">Current account %1$s</string>
