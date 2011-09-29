@@ -18,7 +18,7 @@
   <string name="applying_update">Applying the update...%s</string>
   <string name="boot_recovery">Reboot to Recovery</string>
   <string name="cancel_download_buton_text">Cancel</string>
-  <string name="check_now">Update</string>
+  <string name="check_now">Check for update</string>
   <string name="check_update_policy">Check update settings</string>
   <string name="check_update_when_wifi_available">Check for updates only using Wi-Fi</string>
   <string name="checking_for_updates">Checking for updates...</string>

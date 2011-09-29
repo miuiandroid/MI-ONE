@@ -80,10 +80,12 @@
   <string name="cfTemplateNotForwarded">{0}: Not forwarded</string>
   <string name="cfTemplateRegistered">{0}: Not forwarded</string>
   <string name="cfTemplateRegisteredTime">{0}: Not forwarded</string>
+  <string name="change_default_input_method">By long press in text input to change later</string>
   <string name="childrens_day">儿童节</string>
   <string name="chinese_youth_day">青年节</string>
   <string name="chooseActivity">Select an action</string>
   <string name="chooseUsbActivity">Select an application for the USB device</string>
+  <string name="choose_default_input_method">Choose default input method</string>
   <string name="chooser_wallpaper">Change wallpaper</string>
   <string name="christmas_dad">圣诞节</string>
   <string name="clearDefaultHintMsg">Clear default in Home Settings &gt; Applications &gt; Manage applications.</string>
@@ -578,7 +580,7 @@
   <string name="lockscreen_instructions_when_pattern_enabled">Press Menu to unlock or place emergency call.</string>
   <string name="lockscreen_low_battery">Connect your charger (%d%%)</string>
   <string name="lockscreen_missing_sim_instructions">Please insert a SIM card.</string>
-  <string name="lockscreen_missing_sim_message">No SIM card in phone.</string>
+  <string name="lockscreen_missing_sim_message">No SIM card.</string>
   <string name="lockscreen_missing_sim_message_short">No SIM card.</string>
   <string name="lockscreen_mms_label">Open SMS</string>
   <string name="lockscreen_network_locked_message">Network locked</string>
@@ -1230,11 +1232,12 @@
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Backlight</string>
   <string name="status_bar_toggle_data">Data</string>
-  <string name="status_bar_toggle_divider">Toggles placed above bar are active</string>
+  <string name="status_bar_toggle_divider">Customize</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Lock</string>
   <string name="status_bar_toggle_mute">Silent</string>
+  <string name="status_bar_toggle_network_type">Network type</string>
   <string name="status_bar_toggle_privacy_mode">Guard</string>
   <string name="status_bar_toggle_reboot">Reboot</string>
   <string name="status_bar_toggle_rotate">Rotation</string>

@@ -80,10 +80,12 @@
   <string name="cfTemplateNotForwarded">{0}: Not forwarded</string>
   <string name="cfTemplateRegistered">{0}: Not forwarded</string>
   <string name="cfTemplateRegisteredTime">{0}: Not forwarded</string>
+  <string name="change_default_input_method">Long press in text input to change default input method</string>
   <string name="childrens_day" />
   <string name="chinese_youth_day" />
   <string name="chooseActivity">Select an action</string>
   <string name="chooseUsbActivity">Select an application for the USB device</string>
+  <string name="choose_default_input_method">Choose default input method</string>
   <string name="chooser_wallpaper">Change wallpaper</string>
   <string name="christmas_dad" />
   <string name="clearDefaultHintMsg">Clear default in Home Settings &gt; Applications &gt; Manage applications.</string>
@@ -451,7 +453,7 @@
   <string name="fools_day" />
   <string name="force_close">Force close</string>
   <string name="force_exit_message">Successfully closed \"%1$s\"</string>
-  <string name="format_error">Failed to erase USB storage.</string>
+  <string name="format_error">Failed to erase SD card.</string>
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="gadget_host_error_inflating">Error inflating widget</string>
   <string name="gigabyteShort">GB</string>
@@ -578,7 +580,7 @@
   <string name="lockscreen_instructions_when_pattern_enabled">Press Menu to unlock or place emergency call.</string>
   <string name="lockscreen_low_battery">Connect your charger (%d%%)</string>
   <string name="lockscreen_missing_sim_instructions">Please insert a SIM card.</string>
-  <string name="lockscreen_missing_sim_message">No SIM card in phone.</string>
+  <string name="lockscreen_missing_sim_message">No SIM card.</string>
   <string name="lockscreen_missing_sim_message_short">No SIM card.</string>
   <string name="lockscreen_mms_label">Open SMS</string>
   <string name="lockscreen_network_locked_message">Network locked</string>
@@ -633,9 +635,9 @@
   <string name="managed_roaming_title">Managed Roaming</string>
   <string name="me">Me</string>
   <string name="media_bad_removal">SD card was removed before being unmounted.</string>
-  <string name="media_checking">USB storage is currently being checked.</string>
+  <string name="media_checking">SD card is currently being checked.</string>
   <string name="media_removed">SD card has been removed.</string>
-  <string name="media_shared">USB storage is currently in use by a computer.</string>
+  <string name="media_shared">SD card is currently in use by a computer.</string>
   <string name="media_unknown_state">External media in unknown state.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_delete_shortcut_label">Delete</string>
@@ -789,7 +791,7 @@
   <string name="permdesc_cache_filesystem">Allows an application to read and write the cache filesystem.</string>
   <string name="permdesc_callPhone">Allows the application to call phone numbers without your intervention. Malicious applications may cause unexpected calls on your phone bill. Note that this does not allow the application to call emergency numbers.</string>
   <string name="permdesc_callPrivileged">Allows the application to call any phone number, including emergency numbers, without your intervention. Malicious applications may place unnecessary and illegal calls to emergency services.</string>
-  <string name="permdesc_camera">Allows application to take pictures with the camera. This allows the application at any time to collect images the camera is seeing.</string>
+  <string name="permdesc_camera">Allows application to take pictures and videos with the camera. This allows the application at any time to collect images the camera is seeing.</string>
   <string name="permdesc_changeBackgroundDataSetting">Allows an application to change the background data usage setting.</string>
   <string name="permdesc_changeComponentState">Allows an application to change whether a component of another application is enabled or not. Malicious applications can use this to disable important phone capabilities. Care must be used with permission, as it is possible to get application components into an unusable, inconsistent, or unstable state.</string>
   <string name="permdesc_changeConfiguration">Allows an application to change the current configuration, such as the locale or overall font size.</string>
@@ -1104,8 +1106,8 @@
   <string name="preposition_for_time">at %s</string>
   <string name="preposition_for_year">in %s</string>
   <string name="private_num">Private number</string>
-  <string name="progress_erasing">Erasing USB storage...</string>
-  <string name="progress_unmounting">Unmounting USB storage...</string>
+  <string name="progress_erasing">Erasing SD card...</string>
+  <string name="progress_unmounting">Unmounting SD card...</string>
   <string name="reboot_confirm">Phone will be restarted</string>
   <string name="reboot_progress">Restarting...</string>
   <string name="recent_tasks_title">Recent</string>
@@ -1235,6 +1237,7 @@
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Lock</string>
   <string name="status_bar_toggle_mute">Silent</string>
+  <string name="status_bar_toggle_network_type">Network type</string>
   <string name="status_bar_toggle_privacy_mode">Guard</string>
   <string name="status_bar_toggle_reboot">Reboot</string>
   <string name="status_bar_toggle_rotate">Rotation</string>

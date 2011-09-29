@@ -33,6 +33,7 @@
   <string name="header_general_sync_settings">General sync settings</string>
   <string name="header_manage_accounts">Manage accounts</string>
   <string name="header_manage_default_accounts">Default accounts</string>
+  <string name="logoff_account_label">Log off</string>
   <string name="network_error">Network connection error</string>
   <string name="nickname_exist">Nickname already exists</string>
   <string name="preference_change_password_title">Change password</string>

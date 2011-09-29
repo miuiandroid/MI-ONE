@@ -27,7 +27,7 @@
   <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this device at %1$s</string>
   <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
   <string name="usb_mode_dont_ask">Don\'t prompt again</string>
-  <string name="usb_mode_mount_storage_title">Mount SD card media</string>
+  <string name="usb_mode_mount_storage_title">Mount SD card</string>
   <string name="usb_mode_notification">Mount SD card</string>
   <string name="user_guide_for_call">To back to the phone UI, you can drag down the status bar and click the calling notification</string>
   <string name="user_guide_for_notification">A new notification received，you can drag down the status bar to check detail</string>
