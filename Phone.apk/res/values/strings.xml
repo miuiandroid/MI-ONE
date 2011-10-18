@@ -20,8 +20,6 @@
   <string name="alert_dialog_no">No</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Yes</string>
-  <string name="allow_3rd_app_listen_phone_event_summary">Protect your phone from being wiretapped</string>
-  <string name="allow_3rd_app_listen_phone_event_title">Anti wiretapping</string>
   <string name="always_enable_mms">Always receive MMS</string>
   <string name="always_enable_mms_summary">Always receive MMS even when data is disabled</string>
   <string name="answer">Answer</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_05b6">false</string>
   <string name="about_settings">About Phone</string>
   <string name="accelerometer_title">Auto-rotate screen</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
@@ -839,9 +840,6 @@
   <string name="menu_stats_refresh">Refresh</string>
   <string name="menu_stats_total">Total Usage</string>
   <string name="menu_stats_unplugged">Unplugged Usage</string>
-  <string name="miui_copyright_title">Copyright</string>
-  <string name="miui_privacy_policy_title">Privacy policy</string>
-  <string name="miui_user_agreement_title">User agreement</string>
   <string name="mms_kept_in_memory">Messages kept in memory</string>
   <string name="mms_settings_title">Messaging</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
@@ -909,6 +907,9 @@
   <string name="power_usage_summary">What has been using the battery</string>
   <string name="power_usage_summary_title">Battery use</string>
   <string name="power_wifi">WLAN</string>
+  <string name="pref_volume_category_title">Volume</string>
+  <string name="pref_volume_wake_summary">Pressing the volume up/down wakes the device. Intended for devices with hard to press power key</string>
+  <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preferred_media_app_summary">Choose Music player</string>
   <string name="privacy_settings">Privacy</string>
   <string name="privacy_settings_title">Privacy</string>
@@ -1078,7 +1079,6 @@
   <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
   <string name="settings_safetylegal_activity_loading">Loading…</string>
   <string name="settings_safetylegal_activity_title">Safety information</string>
-  <string name="settings_safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
   <string name="settings_safetylegal_title">Safety information</string>
   <string name="settings_shortcut">Settings</string>
   <string name="show_background_processes">Show cached processes</string>

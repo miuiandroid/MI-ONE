@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_008b">false</string>
+  <string name="APKTOOL_DUMMY_008d">false</string>
   <string name="access_sd_fail">Failed to access SD card.</string>
   <string name="anti_shake">Anti-shake</string>
   <string name="anti_shake_time_expired">Time expired, take picture immediately.</string>
@@ -11,6 +11,7 @@
   <string name="camera_settings">Camera Settings</string>
   <string name="cannot_connect_camera">Can\'t connect to camera.</string>
   <string name="color_effect">Color effect</string>
+  <string name="confirm_restore_message">Camera settings will be restored to defaults.</string>
   <string name="delay_snap">Delay</string>
   <string name="details_ok">OK</string>
   <string name="disable_silence">Sounds</string>
@@ -121,6 +122,7 @@
   <string name="pref_video_quality_mms">MMS (Low, 30s)</string>
   <string name="preparing_sd">Preparing SD card...</string>
   <string name="removed">Removed</string>
+  <string name="restore_title">Restore defaults</string>
   <string name="review_cancel">Cancel</string>
   <string name="review_ok">OK</string>
   <string name="review_play">Play</string>

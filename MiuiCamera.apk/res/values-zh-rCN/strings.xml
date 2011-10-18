@@ -10,6 +10,7 @@
   <string name="camera_settings">相机设置</string>
   <string name="cannot_connect_camera">无法连接到相机。</string>
   <string name="color_effect">效果</string>
+  <string name="confirm_restore_message">相机设置将还原为默认值。</string>
   <string name="delay_snap">定时</string>
   <string name="details_ok">确定</string>
   <string name="disable_silence">取消静音</string>
@@ -83,7 +84,7 @@
   <string name="pref_camera_saturation">饱和度</string>
   <string name="pref_camera_scenedetect">场景检测</string>
   <string name="pref_camera_scenemode">场景</string>
-  <string name="pref_camera_scenemode_action">运动</string>
+  <string name="pref_camera_scenemode_action">动态</string>
   <string name="pref_camera_scenemode_auto">自动</string>
   <string name="pref_camera_scenemode_backlight">背光</string>
   <string name="pref_camera_scenemode_beach">海滩</string>
@@ -119,6 +120,7 @@
   <string name="pref_video_quality_mms">彩信 (低画质，30 秒)</string>
   <string name="preparing_sd">正在准备 SD 卡...</string>
   <string name="removed">已删除</string>
+  <string name="restore_title">还原默认设置</string>
   <string name="review_cancel">取消</string>
   <string name="review_ok">确定</string>
   <string name="review_play">播放</string>

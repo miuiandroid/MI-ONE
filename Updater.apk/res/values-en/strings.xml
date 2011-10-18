@@ -44,9 +44,9 @@
   <string name="install_whole_rom">Download full ROM package is recommended</string>
   <string name="loading">Connecting to MIUIAndroid OTA...</string>
   <string name="md5_check_cancelled">MD5 check cancelled</string>
-  <string name="mione_update_fail_description">MI-ONE update has failed, please try again</string>
+  <string name="mione_update_fail_description">Update has failed, please try again</string>
   <string name="mione_update_fail_title">Update Failed</string>
-  <string name="mione_update_success_description">MI-ONE was updated successfully</string>
+  <string name="mione_update_success_description">Updated successfully</string>
   <string name="mione_update_success_title">Update completed</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Not enough space on SD card to move the selected %dMB of data</string>
   <string name="move_data_to_sdcard_title">Move data to SD card</string>

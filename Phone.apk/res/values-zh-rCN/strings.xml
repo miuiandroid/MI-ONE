@@ -18,8 +18,6 @@
   <string name="alert_dialog_no">否</string>
   <string name="alert_dialog_ok">确定</string>
   <string name="alert_dialog_yes">是</string>
-  <string name="allow_3rd_app_listen_phone_event_summary">保护你的电话以免被窃听</string>
-  <string name="allow_3rd_app_listen_phone_event_title">防窃听</string>
   <string name="always_enable_mms">始终接收彩信</string>
   <string name="always_enable_mms_summary">在禁用数据时依然接收彩信, 在国内不会发生任何费用</string>
   <string name="answer">接听</string>
@@ -415,7 +413,7 @@
   <string name="pin_progress_unlock_icc">正在解锁 SIM 卡...</string>
   <string name="port_title">端口号</string>
   <string name="predefined_hangup_sms_body">我现在不方便接听，稍后和您联系。</string>
-  <string name="predefined_hangup_sms_summary">来电时挂断并发送短信的默认内容。</string>
+  <string name="predefined_hangup_sms_summary">来电时挂断并发送短信的默认内容</string>
   <string name="predefined_hangup_sms_title">预置来电挂断短信</string>
   <string name="pref_dialer_list_title">拨号列表</string>
   <string name="pref_more_settings_title">更多设置</string>
@@ -437,7 +435,7 @@
   <string name="puk_unlocked">您的SIM卡已解锁。正在解锁您的手机...</string>
   <string name="radio_off_error">请先开启无线通信，然后再查看这些设置。</string>
   <string name="reading_settings">正在读取设置...</string>
-  <string name="recordCall_sample_prefix">MIUI录音_</string>
+  <string name="recordCall_sample_prefix">MIUI录音</string>
   <string name="recordCall_sd_error">SD卡访问出错，录音前请插好SD卡</string>
   <string name="regional_disable">已停用地方新闻</string>
   <string name="regional_enable">已启用地方新闻</string>
