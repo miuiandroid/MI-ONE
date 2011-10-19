@@ -19,7 +19,7 @@
   <string name="desktop_wallpaper">Home screen wallpaper</string>
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="lockscreen_wallpaper">Lockscreen wallpaper</string>
-  <string name="new_format_convert">Converting %s to new format</string>
+  <string name="new_format_convert">Converting %1$s to new format</string>
   <string name="old_format_convert_tip1">Theme package is not in the new theme format, converting can take some time to complete</string>
   <string name="old_format_convert_tip2">Resources can be deleted and updated to new versions via download</string>
   <string name="old_format_fail">Conversion of mtz to new format failed, press apply to retry conversion</string>

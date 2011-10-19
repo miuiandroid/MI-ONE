@@ -6,11 +6,13 @@
   <string name="battery_low_subtitle">The battery is getting low:</string>
   <string name="battery_low_title">Please connect charger</string>
   <string name="battery_low_why">Battery use</string>
+  <string name="call_status_dialing">Dialing</string>
   <string name="dismount_storage">Charge only</string>
   <string name="label_view">View</string>
   <string name="mount_storage">Mount storage</string>
   <string name="move_data_to_sdcard_message">Screenshots and photos will be migrated to the SD card to free up more internal memory.</string>
   <string name="move_data_to_sdcard_title">Move data to SD card</string>
+  <string name="return_to_incall_screen">Click to return to call</string>
   <string name="status_bar_clear_all_button">Clear</string>
   <string name="status_bar_date_format">MMM d</string>
   <string name="status_bar_date_format_lock">E, MMM d</string>

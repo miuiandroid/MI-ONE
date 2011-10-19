@@ -1078,8 +1078,8 @@
   <string name="settings_license_activity_title">Open source licenses</string>
   <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
   <string name="settings_safetylegal_activity_loading">Loading...</string>
-  <string name="settings_safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
   <string name="settings_safetylegal_activity_title">Safety information</string>
+  <string name="settings_safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
   <string name="settings_safetylegal_title">Safety information</string>
   <string name="settings_shortcut">Settings</string>
   <string name="show_background_processes">Show cached processes</string>
