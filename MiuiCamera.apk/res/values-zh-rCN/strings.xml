@@ -32,8 +32,8 @@
   <string name="pref_camera_antibanding_off">关闭</string>
   <string name="pref_camera_autoexposure">测光模式</string>
   <string name="pref_camera_autoexposure_average">平均测光</string>
-  <string name="pref_camera_autoexposure_center">中心测光</string>
-  <string name="pref_camera_autoexposure_spot">焦点测光</string>
+  <string name="pref_camera_autoexposure_center">中心权重测光</string>
+  <string name="pref_camera_autoexposure_spot">中点测光</string>
   <string name="pref_camera_autofocus">自动对焦</string>
   <string name="pref_camera_coloreffect_aqua">浅绿色</string>
   <string name="pref_camera_coloreffect_bluetint">偏蓝</string>
@@ -62,6 +62,7 @@
   <string name="pref_camera_iso_200">ISO 200</string>
   <string name="pref_camera_iso_400">ISO 400</string>
   <string name="pref_camera_iso_800">ISO 800</string>
+  <string name="pref_camera_iso_HJR">画质优先</string>
   <string name="pref_camera_iso_auto">自动</string>
   <string name="pref_camera_iso_deblur">防抖</string>
   <string name="pref_camera_jpegquality">照片质量</string>

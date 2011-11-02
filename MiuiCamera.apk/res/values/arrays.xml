@@ -160,7 +160,7 @@
         <item>@string/pref_camera_iso_400</item>
         <item>@string/pref_camera_iso_800</item>
         <item>@string/pref_camera_iso_1250</item>
-        <item>@string/pref_camera_iso_deblur</item>
+        <item>@string/pref_camera_iso_HJR</item>
         <item>@string/pref_camera_iso_100</item>
         <item>@string/pref_camera_iso_200</item>
         <item>@string/pref_camera_iso_400</item>
