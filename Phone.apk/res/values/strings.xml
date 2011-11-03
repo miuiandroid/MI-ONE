@@ -328,6 +328,7 @@
   <string name="mmiCancelled">MMI code canceled</string>
   <string name="mmiStarted">MMI code started</string>
   <string name="mobile_networks">Mobile network settings</string>
+  <string name="more_call_settings">More call settings</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
   <string name="name">Name</string>

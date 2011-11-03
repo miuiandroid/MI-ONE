@@ -317,6 +317,7 @@
   <string name="mmiCancelled">MMI 码已取消</string>
   <string name="mmiStarted">MMI 码已启动</string>
   <string name="mobile_networks">移动网络设置</string>
+  <string name="more_call_settings">更多电话设置</string>
   <string name="multi_category_disable">已停用多类别</string>
   <string name="multi_category_enable">已启用多类别</string>
   <string name="name">名称</string>
